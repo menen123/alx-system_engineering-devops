@@ -1,4 +1,5 @@
 #!/bin/bash
 ls -a
+/boot
 echo why?
 
