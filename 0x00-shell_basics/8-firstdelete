@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /tmp/
+cd /my_first_directory
+rm betty
+echo why?
+
