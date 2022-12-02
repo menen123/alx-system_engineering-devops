@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod -R 751 my_dir
+echo why?
+
