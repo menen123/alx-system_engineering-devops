@@ -1,4 +1,7 @@
 #!/bin/bash
 ls -al
 echo why?
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2f50fe44db26d3fef7d92aefed68c7493e66c669
