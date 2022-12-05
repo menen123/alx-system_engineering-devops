@@ -1,4 +1,4 @@
 #!/bin/bash
-head file
+tail file
 
 
