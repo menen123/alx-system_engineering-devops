@@ -1,0 +1,6 @@
+#!/bin/bash
+tail -1 iacta >> x | cp x iacta
+
+
+
+
