@@ -1,0 +1,95 @@
+/etc/ssh/sshd_config
+file3:12-newest_files
+file3:2-hellofile
+file3:3-twofiles
+file3:7-file
+file3:file
+file3:file2
+file3:file2.js
+file3:file3
+grep:# This is the sshd server system-wide configuration file.  See
+grep:# Don't read the user's ~/.rhosts and ~/.shosts files
+grep:12-newest_files
+grep:2-hellofile
+grep:3-twofiles
+grep:7-file
+grep:file
+grep:file2
+grep:file2.js
+grep:file3
+grep:-rwxr--r-- 1 root root    23 Dec  5 09:25 2-hellofile
+grep:-rwxr--r-- 1 root root    23 Dec  5 09:38 3-twofiles
+grep:-rwxr--r-- 1 root root    91 Dec  5 12:09 7-file
+grep:-rw-r--r-- 1 root root 12288 Dec  5 11:43 .7-file.swp
+grep:-rw-r--r-- 1 root root  1644 Dec  5 09:35 file
+grep:-rw-r--r-- 1 root root  1644 Dec  5 09:37 file2
+grep:12-newest_files
+grep:2-hellofile
+grep:3-twofiles
+grep:7-file
+grep:file
+grep:file2
+grep:file2.js
+grep:# This is the sshd server system-wide configuration file.  See
+grep:# Don't read the user's ~/.rhosts and ~/.shosts files
+grep:# This is the sshd server system-wide configuration file.  See
+grep:# Don't read the user's ~/.rhosts and ~/.shosts files
+grep:file3:12-newest_files
+grep:file3:2-hellofile
+grep:file3:3-twofiles
+grep:file3:7-file
+grep:file3:file
+grep:file3:file2
+grep:file3:file2.js
+grep:file3:file3
+grep:ls_cwd_content:-rwxr--r-- 1 root root    23 Dec  5 09:25 2-hellofile
+grep:ls_cwd_content:-rwxr--r-- 1 root root    23 Dec  5 09:38 3-twofiles
+grep:ls_cwd_content:-rwxr--r-- 1 root root    91 Dec  5 12:09 7-file
+grep:ls_cwd_content:-rw-r--r-- 1 root root 12288 Dec  5 11:43 .7-file.swp
+grep:ls_cwd_content:-rw-r--r-- 1 root root  1644 Dec  5 09:35 file
+grep:ls_cwd_content:-rw-r--r-- 1 root root  1644 Dec  5 09:37 file2
+grep:sort:12-newest_files
+grep:sort:2-hellofile
+grep:sort:3-twofiles
+grep:sort:7-file
+grep:sort:file
+grep:sort:file2
+grep:sort:file2.js
+grep:/etc/ssh/sshd_config:# This is the sshd server system-wide configuration file.  See
+grep:/etc/ssh/sshd_config:# Don't read the user's ~/.rhosts and ~/.shosts files
+grep:/etc/ssh/sshd_config:# This is the sshd server system-wide configuration file.  See
+grep:/etc/ssh/sshd_config:# Don't read the user's ~/.rhosts and ~/.shosts files
+grep:file3:12-newest_files
+grep:file3:2-hellofile
+grep:file3:3-twofiles
+grep:file3:7-file
+grep:file3:file
+grep:file3:file2
+grep:file3:file2.js
+grep:file3:file3
+grep:ls_cwd_content:-rwxr--r-- 1 root root    23 Dec  5 09:25 2-hellofile
+grep:ls_cwd_content:-rwxr--r-- 1 root root    23 Dec  5 09:38 3-twofiles
+grep:ls_cwd_content:-rwxr--r-- 1 root root    91 Dec  5 12:09 7-file
+grep:ls_cwd_content:-rw-r--r-- 1 root root 12288 Dec  5 11:43 .7-file.swp
+grep:ls_cwd_content:-rw-r--r-- 1 root root  1644 Dec  5 09:35 file
+grep:ls_cwd_content:-rw-r--r-- 1 root root  1644 Dec  5 09:37 file2
+grep:sort:12-newest_files
+grep:sort:2-hellofile
+grep:sort:3-twofiles
+grep:sort:7-file
+grep:sort:file
+grep:sort:file2
+grep:sort:file2.js
+ls_cwd_content:-rwxr--r-- 1 root root    23 Dec  5 09:25 2-hellofile
+ls_cwd_content:-rwxr--r-- 1 root root    23 Dec  5 09:38 3-twofiles
+ls_cwd_content:-rwxr--r-- 1 root root    91 Dec  5 12:09 7-file
+ls_cwd_content:-rw-r--r-- 1 root root 12288 Dec  5 11:43 .7-file.swp
+ls_cwd_content:-rw-r--r-- 1 root root  1644 Dec  5 09:35 file
+ls_cwd_content:-rw-r--r-- 1 root root  1644 Dec  5 09:37 file2
+sort:12-newest_files
+sort:2-hellofile
+sort:3-twofiles
+sort:7-file
+sort:file
+sort:file2
+sort:file2.js

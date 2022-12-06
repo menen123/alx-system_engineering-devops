@@ -1,0 +1,8 @@
+#!/bin/bash
+cat file4 | grep {'[a-z]*','[A-Z]*'} file4
+
+
+
+
+
+
