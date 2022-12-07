@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -IR | find -type d | wc -l
+
